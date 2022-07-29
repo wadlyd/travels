@@ -1,0 +1,34 @@
+.header{
+    padding-bottom: 50px;
+}
+h2{
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+}
+.description {
+    background-image: url("../../images/description.png");
+    width:500px;
+    height:150px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    text-decoration: none;
+    color: black;
+}
+.label-white{
+    border: black solid 2px;
+    border-bottom: black solid 4px;
+    border-right: black solid 4px;
+    background-color: white;
+}
+.label-description{
+    width: 400px;
+    height: 70;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

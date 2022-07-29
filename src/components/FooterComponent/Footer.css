@@ -1,0 +1,14 @@
+.Footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ronda{
+    position: relative;
+    width: 250px;
+    background: transparent;
+    border: none;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}

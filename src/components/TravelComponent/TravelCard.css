@@ -1,0 +1,21 @@
+.container{
+    padding-bottom: 50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+}
+.containerCard{
+    position: relative;
+    width: 350px;
+    margin: 10px;
+    border-radius: 20px;
+    background: rgba(20, 20, 58, 0.25);
+}
+.containerCard a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.containerCard p{
+    font-size: 45px;
+}
